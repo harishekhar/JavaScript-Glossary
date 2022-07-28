@@ -16,7 +16,6 @@ There were different reasons to creating this glossary. It can fit to different 
 
 ## Memoization 
 
-
 ## Call Stack
 
 ## Closure
@@ -30,5 +29,48 @@ There were different reasons to creating this glossary. It can fit to different 
 ## Window Object
 
 ## Garbage collector
+
+## Hoisting
+
+## Temporal Dead Zone
+
+## Callback 
+
+## Declative 
+
+## Fallback
+
+## Polyfill 
+
+## Promises
+
+## Primitive 
+
+## Non-Primitive
+
+## Event Loop 
+
+## Data Types
+
+## Symbols 
+
+## JSON
+
+## Prototypes
+
+## Proto
+
+## ECMA Script 
+
+## TypeScript 
+
+## Compound Assignments 
+
+## Postfix 
+
+## Prefix 
+
+
+
 
 
