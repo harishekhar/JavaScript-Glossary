@@ -70,6 +70,9 @@ There were different reasons to creating this glossary. It can fit to different 
 
 ## Prefix 
 
+## Design Patterns
+
+## Heap Memory
 
 
 
